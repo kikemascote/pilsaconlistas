@@ -1,4 +1,4 @@
-package com.slinetech.exceptions;
+package com.maxa.exceptions;
 
 @SuppressWarnings("serial")
 public class StackException extends Exception{

@@ -1,4 +1,4 @@
-package com.slinetech.node;
+package com.maxa.node;
 
 public class Node<T> {
 	

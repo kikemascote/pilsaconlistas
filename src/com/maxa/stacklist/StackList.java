@@ -1,10 +1,10 @@
-package com.slinetech.stacklist;
+package com.maxa.stacklist;
 
 import java.util.Iterator;
 
-import com.slinetech.exceptions.StackException;
-import com.slinetech.interfaces.IStack;
-import com.slinetech.node.Node;
+import com.maxa.exceptions.StackException;
+import com.maxa.interfaces.IStack;
+import com.maxa.node.Node;
 
 public class StackList<T extends Comparable<T>> implements IStack<T>,Iterable<T>,Iterator<T> {
 	private Node<T> start;

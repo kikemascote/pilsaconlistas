@@ -1,6 +1,6 @@
-package com.slinetech.interfaces;
+package com.maxa.interfaces;
 
-import com.slinetech.exceptions.StackException;
+import com.maxa.exceptions.StackException;
 
 public interface IStack<T> {
 	

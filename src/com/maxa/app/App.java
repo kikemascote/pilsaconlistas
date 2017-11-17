@@ -1,7 +1,7 @@
-package com.slinetech.app;
+package com.maxa.app;
 
-import com.slinetech.exceptions.StackException;
-import com.slinetech.stacklist.StackList;
+import com.maxa.exceptions.StackException;
+import com.maxa.stacklist.StackList;
 
 public class App {
 
